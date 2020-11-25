@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1606314912 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parser.h"
+	"utn.h"
+	"Controller.h"
+
+1606245949 c:\users\usuario\desktop\utn\parcial labo2\parcial\linkedlist.h
+
+1606258411 c:\users\usuario\desktop\utn\parcial labo2\parcial\paciente.h
+	"LinkedList.h"
+
+1606314826 c:\users\usuario\desktop\utn\parcial labo2\parcial\parser.h
+
+1606247366 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606315058 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"bicicleta.h"
+
+1606258474 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\paciente.c
+	"paciente.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606308390 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1606308343 c:\users\usuario\desktop\utn\parcial labo2\parcial\utn.h
+
+1606315466 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"Controller.h"
+
+1606314737 c:\users\usuario\desktop\utn\parcial labo2\parcial\controller.h
+
+1606315526 source:c:\users\usuario\desktop\utn\parcial labo2\parcial\bicicleta.c
+	"bicicleta.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606315500 c:\users\usuario\desktop\utn\parcial labo2\parcial\bicicleta.h
+	"LinkedList.h"
+
